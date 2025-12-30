@@ -1,6 +1,6 @@
-🚦 Smart Traffic System – Ambulance & Firetruck Detection (YOLOv5)
+🚦 Smart Traffic System – Ambulance Detection (YOLOv5)
 
-This project is a Smart Traffic Management System that detects Ambulances and Firetrucks using YOLOv5.
+This project is a Smart Traffic Management System that detects Ambulances  using YOLOv5.
 When an emergency vehicle is detected, the system:
 
 Automatically turns the corresponding lane’s traffic signal GREEN
@@ -45,7 +45,8 @@ Numpy & Pandas
 
 A camera captures the live traffic feed
 
-YOLOv5 model identifies ambulances and firetrucks
+YOLOv5 model identifies ambulances 
+
 
 If an emergency vehicle is detected:
 
